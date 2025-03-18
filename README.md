@@ -26,4 +26,7 @@ A minimalist banking application built as part of Jonas Schmedtmann's Udemy cour
 
 ## Demo
 
-You can check out the live demo [here](#)
+You can check out the live demo [here](https://mamdoh-bankist.netlify.app/)
+use these accounts to log in
+am , 1111
+aw , 2222
